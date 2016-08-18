@@ -1,0 +1,17 @@
+{
+    "name": "dellarespira-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Nathan Willis"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/dellarespira-bower.git"
+    },
+    "description": "Della Respira font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
